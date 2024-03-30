@@ -1,1 +1,1 @@
-This project is intended to help automate and imporve a Social Media presence. 
+This project is intended to help automate and improve a Social Media presence. 
